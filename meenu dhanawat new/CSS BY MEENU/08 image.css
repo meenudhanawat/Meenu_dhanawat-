@@ -1,0 +1,26 @@
+
+#img1 {
+
+    border: 5px solid rgb(238, 40, 33);
+}
+
+#img2 {
+
+    border: 5px dotted rgb(245, 19, 245);
+}
+
+
+
+#para1 {
+
+    background-image: url(./nature01.jpg);
+    color: rgb(5, 36, 212);
+    border-style:  double solid ;
+    border-color: rgb(91, 14, 216);
+    border-width: 10px;
+}
+
+body {
+
+    background-color: rgb(62, 234, 240);
+}

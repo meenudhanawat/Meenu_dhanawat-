@@ -1,0 +1,36 @@
+
+h1 {
+    color: rgb(245, 21, 189);
+}
+
+#para1{
+
+    border-width: 10px;
+    border-style: double;
+    border-color: rgb(226, 16, 69);
+
+}
+
+/* Border Short hand */
+
+#para2 { 
+
+border: 2px solid rgb(14, 44, 214);
+
+}
+
+.paragraph {
+
+    margin-top: 10px;
+}
+
+#para3 {
+
+    border: 4x dashed rgb(172, 51, 14);
+}
+
+#para4 {
+    border-width: 7px;
+    border-style: solid dashed double dotted;
+    color: rgb(148, 14, 182);
+}
